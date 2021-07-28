@@ -1,4 +1,4 @@
-export const BASE_URL = `http://10.58.6.188:8000`;
+export const BASE_URL = `http://13.209.75.4:8000`;
 
 export const LOGIN_APIKEY = `${BASE_URL}/users/login`;
 export const SIGNUP_APIKEY = `${BASE_URL}/users/signup`;
