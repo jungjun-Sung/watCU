@@ -1,7 +1,3 @@
-*프로젝트 소개는 아래를 참고해서 자유롭게 작성해주세요.그대로 따라서 작성하면, 다른 프로젝트와 획일화 되어서 특별해보이지 않습니다. 나만의 언어로 나의 소중한 프로젝트를 특별하게 설명해주세요*
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/daa3496e-4454-4df1-91a9-76eac40dd36a/Screen_Shot_2021-07-18_at_2.29.26_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/daa3496e-4454-4df1-91a9-76eac40dd36a/Screen_Shot_2021-07-18_at_2.29.26_PM.png)
-
 ### watCU **프로젝트 Front-end / Back-end 소개**
 
 - 왓챠 피디아 기능(평가, 추천 등) 기능을 활용하여 편의점 브랜드 CU의 상품을 소개하는 기획을 추가한 클론 프로젝트입니다.
